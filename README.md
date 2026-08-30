@@ -1,8 +1,5 @@
-# Welcome to React Router!
-
-A modern, production-ready template for building full-stack React applications using React Router.
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+✈️ Travel Agency Dashboard
+A modern and responsive Travel Agency Dashboard designed to help travel agencies manage and monitor important business information in one centralized platform. The application provides an intuitive interface for tracking bookings, customers, destinations, revenue, and overall business performance.
 
 ## Features
 
