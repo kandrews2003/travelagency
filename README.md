@@ -1,4 +1,5 @@
-✈️ Travel Agency Dashboard
+##✈️ Travel Agency Dashboard
+
 A modern and responsive Travel Agency Dashboard designed to help travel agencies manage and monitor important business information in one centralized platform. The application provides an intuitive interface for tracking bookings, customers, destinations, revenue, and overall business performance.
 
 ## Features
