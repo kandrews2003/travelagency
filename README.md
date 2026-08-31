@@ -14,7 +14,7 @@ A modern and responsive Travel Agency Dashboard designed to help travel agencies
 
 ## Getting Started
 
-### Installation
+### The Installation
 
 Install the dependencies:
 
